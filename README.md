@@ -16,7 +16,7 @@ Curiosa, criativa e sempre buscando melhorar no que faço
   ##
 
 <div> 
-  <a href="https://instagram.com/rafiesvc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23DD0B78?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafiesv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23DD0B78?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:rafiesvc.digital@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23E60023.svg?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaela-silva-429425349" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23003399?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
