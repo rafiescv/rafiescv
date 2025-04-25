@@ -1,4 +1,4 @@
-# 👋 Oi, mundo! Eu sou a Rafie!
+# 👋 Hey, world! I'm a Rafie! 🌟🚀
 
 💻 Estudante de Ciência da Computação | 
 🎨 Designer de Interiores & Ilustradora
