@@ -1,8 +1,11 @@
-# Hi, I'm Rafaela Silva 🖥️
+# 👋 Oi, mundo! Eu sou a Rafie!
 
-- 📚 Computer Science student.
-- 🌎 Brazilian, Interior Designer, and Illustrator.
-- 🎨 Illustrating, Reading, and Coding.
+💻 Estudante de Ciência da Computação | 
+🎨 Designer de Interiores & Ilustradora
+
+Sou apaixonada por aprender coisas novas e juntar criatividade com tecnologia.  
+Curiosa, criativa e sempre buscando melhorar no que faço
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
